@@ -18,7 +18,6 @@ before_script:
 - npm install -g coveralls lerna npm-local-development
 - lerna bootstrap --nohoist \* --no-ci
 - npm-local-development --no-watcher
-- sleep 2 # thanks mongo
 
 script:
 - ./node_modules/.bin/jest --coverage
