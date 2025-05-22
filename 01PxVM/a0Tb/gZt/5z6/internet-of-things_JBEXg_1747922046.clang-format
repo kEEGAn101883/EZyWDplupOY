@@ -6,5 +6,3 @@ AllowShortFunctionsOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: 'false'
 AllowShortIfStatementsOnASingleLine: 'false'
 AllowShortLoopsOnASingleLine: 'false'
-
-...
