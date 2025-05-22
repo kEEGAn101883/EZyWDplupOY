@@ -3,7 +3,6 @@ BasedOnStyle: Google
 IndentWidth: '4'
 ColumnLimit: 160
 AllowShortFunctionsOnASingleLine: false
-AllowShortBlocksOnASingleLine: 'false'
 AllowShortCaseLabelsOnASingleLine: 'false'
 AllowShortIfStatementsOnASingleLine: 'false'
 AllowShortLoopsOnASingleLine: 'false'
