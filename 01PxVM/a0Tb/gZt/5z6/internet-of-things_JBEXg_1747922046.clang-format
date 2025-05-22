@@ -5,4 +5,3 @@ ColumnLimit: 160
 AllowShortFunctionsOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: 'false'
 AllowShortIfStatementsOnASingleLine: 'false'
-AllowShortLoopsOnASingleLine: 'false'
