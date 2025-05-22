@@ -1,7 +1,6 @@
 ﻿---
 BasedOnStyle: Google
 IndentWidth: '4'
-DerivePointerAlignment: false
 ColumnLimit: 160
 AllowShortFunctionsOnASingleLine: false
 AllowShortBlocksOnASingleLine: 'false'
