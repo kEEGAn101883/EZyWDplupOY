@@ -1,6 +1,5 @@
 
 - '12'
-services:
 - mongodb
 - redis-server
 
