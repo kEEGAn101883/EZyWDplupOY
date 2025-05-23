@@ -2,4 +2,3 @@
 BasedOnStyle: Google
 IndentWidth: '4'
 AllowShortCaseLabelsOnASingleLine: 'false'
-AllowShortIfStatementsOnASingleLine: 'false'
