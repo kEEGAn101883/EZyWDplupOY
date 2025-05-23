@@ -12,7 +12,6 @@ before_script:
 - npm install
 - npm install -g coveralls lerna npm-local-development
 - lerna bootstrap --nohoist \* --no-ci
-- npm-local-development --no-watcher
 
 script:
 - cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
