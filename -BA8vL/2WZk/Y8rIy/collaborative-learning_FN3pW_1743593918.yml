@@ -7,7 +7,6 @@
   directories:
 
 before_script:
-- npm install
 - npm install -g coveralls lerna npm-local-development
 - lerna bootstrap --nohoist \* --no-ci
 
